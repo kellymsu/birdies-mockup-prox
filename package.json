@@ -1,0 +1,8 @@
+{
+  "name": "birdies-mockup-proxy",
+  "private": true,
+  "type": "module",
+  "dependencies": {
+    "@google/genai": "^0.7.0"
+  }
+}
