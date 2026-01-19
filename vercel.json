@@ -1,8 +1,7 @@
 {
   "functions": {
-    "api/mockup.js": {
+    "api/**/*.js": {
       "maxDuration": 30
     }
   }
 }
-	
